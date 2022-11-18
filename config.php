@@ -1,3 +1,3 @@
 <?php
-    define('INCLUDE_PATH','http://localhost/Social Media Icon Effect/');//url amigável
+    define('INCLUDE_PATH','http://localhost/Social-Icon-Effects/');//url amigável
 ?>
